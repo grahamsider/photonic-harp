@@ -1,7 +1,7 @@
 # iHarp (A Photonic Harp implemented in Verilog)
 
 ## Block Diagram
-![Block Diagram](./Final\ Report/Final\ Report\ Block\ Diagram.png/)
+![Block Diagram](https://github.com/grahamsider/photonic-harp/blob/master/Final%20Report/ECE241%20Final%20Report%20Block%20Diagram.png)
 
 See the "Final Report" directory for more details.
 
