@@ -1,0 +1,10 @@
+
+
+D:/Quartus Prime Projects/iHarp/Audio_Controller/Audio_Clock.v
+
+Nov 13 09AM:20:31>: Error in CNX file format.
+
+Error messages are listed in file
+D:/Quartus Prime Projects/iHarp/Audio_Controller/Audio_Clock.cnxerr.
+
+Can't create the custom megafunction variation file(s)
